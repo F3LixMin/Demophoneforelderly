@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo phone for elderly</string>
+    <string name="buttonCallSon">PETER</string>
+    <string name="buttonCallDaugther">MARY</string>
+</resources>
